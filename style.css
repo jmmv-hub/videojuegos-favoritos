@@ -57,3 +57,22 @@
             transition: transform 0.3s ease;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
+
+        .videojuego:hover {
+            transform: translateY(-5px);
+        }
+        
+        .videojuego img {
+            width: 100%;
+            height: 350px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .videojuego-info {
+            padding: 20px;
+        }
+        
+        .videojuego-info p {
+            margin-bottom: 15px;
+        }
