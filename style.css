@@ -84,3 +84,13 @@
             color: #666;
             border-top: 1px solid #333;
         }
+
+        @media (max-width: 768px) {
+            .videojuegos {
+                grid-template-columns: 1fr;
+            }
+            
+            .videojuego img {
+                height: 300px;
+            }
+        }
