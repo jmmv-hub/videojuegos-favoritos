@@ -18,4 +18,27 @@
             padding: 20px;
         }
 
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            border-bottom: 1px solid #333;
+        }
         
+        h1 {
+            color: #bb86fc;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        h2 {
+            color: #03dac6;
+            margin: 20px 0 15px;
+            border-left: 4px solid #03dac6;
+            padding-left: 10px;
+        }
+        
+        h3 {
+            color: #bb86fc;
+            margin: 15px 0 10px;
+        }
